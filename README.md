@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Goutham LM</h1>
 <h3 align="center">Passionate about AI & ML, enthusiastic about web development, and keen on data analysis</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham1122004&label=Profile%20views&color=0e75b6&style=flat" alt="goutham1122004" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutham1122004" alt="goutham1122004" /></a> </p>
 
 - 🔭 I’m currently working on **Currently pursuing 2nd M.Tech in Computer Science at Sri Krishna College of Engineering and Technology**
