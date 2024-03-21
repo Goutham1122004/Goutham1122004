@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Goutham LM</h1>
-<h3 align="center">Currently pursuing 2nd M.Tech in Computer Science at Sri Krishna College of Engineering and Technology Proficient in: *AI & ML Enthusiast *Web Development *Aspiring Data Analyst *React Native App Development *UI/UX Design *Hackathon Aficionado *Problem-Solving Experienced in leveraging technology to efficiently solve complex problems Seeking opportunities to contribute and grow in the field of computer science through hands-on experience and continuous learning</h3>
+<h3 align="center">Passionate about AI & ML, enthusiastic about web development, and keen on data analysis</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutham1122004" alt="goutham1122004" /></a> </p>
+
+- 🔭 I’m currently working on **Currently pursuing 2nd M.Tech in Computer Science at Sri Krishna College of Engineering and Technology**
+
+- 👯 I’m looking to collaborate on **AI & ML Enthusiast || Web Development || Aspiring Data Analyst || UI/UX Design || React Native App Development || Hackathon Aficionado || Problem -Solving**
+
+- 👨‍💻 All of my projects are available at [https://techcodings.github.io/gouthamlm/](https://techcodings.github.io/gouthamlm/)
+
+- 📫 How to reach me **lmgoutham8@gmail.com**
+
+- 📄 Know about my experiences [https://techcodings.github.io/gouthamlm/Resume_Goutham.pdf](https://techcodings.github.io/gouthamlm/Resume_Goutham.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
